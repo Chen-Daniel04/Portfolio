@@ -1,0 +1,26 @@
+.contact {
+  background: #f9f9f9;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+.contact-info p {
+  margin: 0.5rem 0;
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-link {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #008080;
+  font-weight: bold;
+}
+
+.social-link:hover {
+  text-decoration: underline;
+}

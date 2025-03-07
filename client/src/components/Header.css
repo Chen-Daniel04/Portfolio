@@ -1,0 +1,49 @@
+.header {
+  background: linear-gradient(to right, #008080, #00ced1);
+  color: #fff;
+  padding: 6rem 0;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.header-content h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.header-content h2 {
+  font-size: 1.5rem;
+  margin: 1rem 0 2rem;
+}
+
+.header-buttons .btn {
+  background: #fff;
+  color: #008080;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 25px;
+  margin: 0 0.5rem;
+  transition: background 0.3s ease;
+}
+
+.header-buttons .btn-outline {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.header-buttons .btn:hover {
+  background: #00ced1;
+  color: #fff;
+}
+
+.header-buttons .btn-outline:hover {
+  background: #fff;
+  color: #008080;
+}
